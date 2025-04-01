@@ -1,2 +1,2 @@
 flask
-aiogram
+aiogram==3.3.0
